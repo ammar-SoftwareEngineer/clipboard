@@ -252,7 +252,8 @@ section p {
 
 @media(max-width:767px) {
     .keep .text h3{
-        width: 350px;
+        width: 320px;
+        margin: 0 auto;
     }
     .keep .text p {
         width: 300px;
@@ -411,6 +412,7 @@ section p {
 @media(max-width:767px) {
     .clip .text h2{
         width: 350px;
+        margin: 0 auto;
     }
     .clip .text p {
         width: 305px;
