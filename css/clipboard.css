@@ -251,6 +251,9 @@ section p {
 }
 
 @media(max-width:767px) {
+    .keep .text h3{
+        width: 350px;
+    }
     .keep .text p {
         width: 300px;
     }
@@ -302,6 +305,7 @@ section p {
     .access .text h2 {
         text-align: center;
         margin: 0 auto 25px;
+        width: 320px;
     }
 
     .access .text p {
@@ -347,6 +351,11 @@ section p {
 }
 
 @media(max-width:767px) {
+    .workflow .text h2{
+        width: 350px;
+        margin: 0 auto 20px;
+
+    }
     .workflow .text p {
         width: 250px;
     }
@@ -400,6 +409,9 @@ section p {
 }
 
 @media(max-width:767px) {
+    .clip .text h2{
+        width: 350px;
+    }
     .clip .text p {
         width: 305px;
     }
